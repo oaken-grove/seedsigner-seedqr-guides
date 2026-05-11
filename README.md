@@ -3,3 +3,7 @@
 
 
 ![Screenshot of the 3D models](/img/Screenshot.png)
+
+-----------------------------------------
+
+[![Redirecting video preview](/img/thumbnail.png)](https://vid.northbound.online/w/eazKznKdK7uoY7jmx4qJk5)

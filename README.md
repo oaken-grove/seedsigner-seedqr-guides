@@ -5,9 +5,17 @@
 
 -----------------------------------------
 
-* [Video Demo](##Video-Demo)
+* [Summary](#Summary)
+* [Video Demo](#Video-Demo)
 
 -----------
+## Summary
 
-# Video Demo
+This project aims to provide a DIY-friendly method for making metal-plate backups of Bitcoin seed phrases from a [SeedSigner](https://github.com/SeedSigner/seedsigner/tree/main) device, with minimal effort once the necessary tools are built and/or acquired.
+
+It's similar in concept to existing metal SeedQR plates, but uses an external, 3D‑printed QR template rather than an embedded template in the plate.
+The printable design requires a larger footprint (~120 × 120 mm), which on the upside happens to be compatible with standard CD cases as a convenient storage option.
+
+-----------
+## Video Demo
 [![Redirecting video preview](/img/thumbnail.png)](https://vid.northbound.online/w/eazKznKdK7uoY7jmx4qJk5)
